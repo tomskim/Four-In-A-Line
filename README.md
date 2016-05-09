@@ -9,4 +9,4 @@
   
   -> a two players mode in a turn basis. 
 
- I coded Form1.cs, Form2.cs, Form3.cs and Form4.cs.
+ I contributed to Form1.cs, Form2.cs, Form3.cs, Form4.cs and their designs.
