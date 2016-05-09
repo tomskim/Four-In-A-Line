@@ -5,6 +5,8 @@
 
 	This game allows a user to play in two different modes: 
 
-  a single player mode against computer’s artificial intelligence and a two players mode in a turn basis. 
+  -> a single player mode against computer’s artificial intelligence
+  
+  -> a two players mode in a turn basis. 
 
  I coded Form1.cs, Form2.cs, Form3.cs and Form4.cs.
