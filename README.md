@@ -8,5 +8,3 @@
   -> a single player mode against computer’s artificial intelligence
   
   -> a two players mode in a turn basis. 
-
- I contributed to Form1.cs, Form2.cs, Form3.cs, Form4.cs and their designs.
